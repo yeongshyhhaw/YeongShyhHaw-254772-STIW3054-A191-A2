@@ -23,8 +23,14 @@ I have been required to develop a small system using maven and java programming 
 5. Reporting file: All the results must be displayed in MS Excel file.
 
 # Output
+![lestle 4](https://user-images.githubusercontent.com/47937370/68525240-96a25a00-030a-11ea-9d74-e15d0c645cde.png)
+![lestle 5](https://user-images.githubusercontent.com/47937370/68525258-ce110680-030a-11ea-960d-d7b2f839a15d.png)
 
+
+
+# Excel
 ![lestle 3](https://user-images.githubusercontent.com/47937370/68525123-48408b80-0309-11ea-9b7a-0d8235693e05.png)
+
 
 
 # class Diagram
