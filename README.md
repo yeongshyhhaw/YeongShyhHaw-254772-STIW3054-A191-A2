@@ -25,7 +25,9 @@ I have been required to develop a small system using maven and java programming 
 # Output
 
 # class Diagram
-![image](https://user-images.githubusercontent.com/47937370/68523514-4a005400-02f5-11ea-9d92-8fceece1774e.png)
+![class](https://user-images.githubusercontent.com/47937370/68524271-baac6e00-02ff-11ea-99fd-0b3f24a553eb.PNG)
+
+
 
 # Youtube Presentation
 
