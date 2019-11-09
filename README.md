@@ -24,12 +24,15 @@ I have been required to develop a small system using maven and java programming 
 
 # Output
 
+![lestle 3](https://user-images.githubusercontent.com/47937370/68525123-48408b80-0309-11ea-9b7a-0d8235693e05.png)
+
+
 # class Diagram
 ![class](https://user-images.githubusercontent.com/47937370/68524271-baac6e00-02ff-11ea-99fd-0b3f24a553eb.PNG)
 
 
-
 # Youtube Presentation
+https://youtu.be/t_yZeOQ3zpQ
 
 # References
 1. Jonathan Hedley(2019) retrieved from https://jsoup.org/cookbook/extracting-data/selector-syntax
